@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RayDeckerJr
-- 👀 I’m interested in building iOS and Web Applications with User interfaces.
-- 🌱 I’m currently learning Swift, but I am also a Computer Science Student at UOPX.
-- 📫 How to reach me: if you know you need not ask, if you need you ask you already know.
+- 👀 I’m interested in building Software as well as developing complex systems for Indie Games.
+- 🌱 I am also a Computer Science Student at UOPX and a pround alummni of the NSLS.
+- 📫 How to reach me: You can reach me here or by searching for me on LinkedIn.
