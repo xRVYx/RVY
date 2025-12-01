@@ -12,4 +12,3 @@ I’m a software developer passionate advocate for privacy-focused systems.
 	
 3.	Community: Supporting collaborative initiatives that prioritize ethical tech development.
 
-🔧 Current Projects:
